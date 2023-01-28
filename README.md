@@ -12,7 +12,8 @@ Completely based on python(Intermidiate level) 👋
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
 </p>
-[![Made-with-Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Why this project?
 
