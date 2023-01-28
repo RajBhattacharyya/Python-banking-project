@@ -26,7 +26,7 @@ Completely based on python(Intermidiate level) 👋
 
 ## 🌏 Run online
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/?editor=code#https://github.com/RajBhattacharyya/Python-banking-project)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/?editor=code#https://github.com/RajBhattacharyya/Python-banking-project/tree/master)
 
 
 ## Author
