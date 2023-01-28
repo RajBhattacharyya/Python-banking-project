@@ -8,7 +8,8 @@
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
 </p>
-[![Made-with-Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 > It is a advance level python on banking system based on binary file handling. It deals with binary files. It stores details of clients and does all the activites done by a bank. It is very easy to use. 
 
