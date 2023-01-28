@@ -24,10 +24,6 @@ Completely based on python(Intermidiate level) 👋
 
 ### 🏠 [Homepage](https://github.com/RajBhattacharyya/Python-banking-project)
 
-## 🏃‍♂️ How to run
-
-💥 Download all the file and run [main.py](https://github.com/RajBhattacharyya/Python-banking-project/blob/master/core/main.py)
-
 ## 🌏 Run online
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/?editor=code#https://github.com/RajBhattacharyya/Python-banking-project)
@@ -41,6 +37,10 @@ Completely based on python(Intermidiate level) 👋
 * Twitter: [@https:\/\/twitter.com\/Raj\_frrr](https://twitter.com/https:\/\/twitter.com\/Raj\_frrr)
 * Github: [@RajBhattacharyya](https://github.com/RajBhattacharyya)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/raj-bhattacharyya18\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/raj-bhattacharyya18\/)
+
+## Issues
+
+If you face issue in running the code from master branch then you can fork the [secondary-master branch](https://github.com/RajBhattacharyya/Python-banking-project/tree/secondary-master) and run main.py.
 
 ## 🤝 Contributing
 
