@@ -1,5 +1,5 @@
-<h1 align="center">
-<b style="color:blue;">Welcome to Banking System!!</b>
+<h1 align="center" style="color:blue;">
+<b>Welcome to Banking System!!</b>
 <br>
 Completely based on python(Intermidiate level) 👋
 </h1>
