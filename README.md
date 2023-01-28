@@ -40,7 +40,7 @@ Completely based on python(Intermidiate level) 👋
 
 ## Issues
 
-If you face issue in running the code from master branch then you can fork the secondary-master branch and run main.py.
+If you face issue in running the code from master branch then you can fork the [secondary-master branch](https://github.com/RajBhattacharyya/Python-banking-project/tree/secondary-master) and run main.py.
 
 ## 🤝 Contributing
 
