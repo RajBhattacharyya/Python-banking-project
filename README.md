@@ -7,9 +7,7 @@
   <a href="https://github.com/RajBhattacharyya/Python-banking-project/blob/master/license" target="_blank">
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
-  <a href="https://twitter.com/https:\/\/twitter.com\/Raj\_frrr" target="_blank">
-    <img alt="Twitter: https:\/\/twitter.com\/Raj\_frrr" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/Raj\_frrr.svg?style=social" />
-  </a>
+  [![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 </p>
 
 > It is a advance level python on banking system based on binary file handling. It deals with binary files. It stores details of clients and does all the activites done by a bank. It is very easy to use. 
@@ -19,7 +17,8 @@
 ## Usage
 
 ```sh
-Easy to use. 
+##Easy to use. 
+##Download all the files and run main.py
 ```
 
 ## Author
