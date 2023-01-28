@@ -1,4 +1,8 @@
-<h1 align="center">Welcome to Banking System (Python Intermediate Project) 👋</h1>
+<h1 align="center">
+<b>Welcome to Banking System!!</b>
+<br>
+Completely based on python(Intermidiate level) 👋
+</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/RajBhattacharyya/Python-banking-project" target="_blank">
@@ -10,16 +14,23 @@
 </p>
 [![Made-with-Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-> It is a advance level python on banking system based on binary file handling. It deals with binary files. It stores details of clients and does all the activites done by a bank. It is very easy to use. 
+## Why this project?
+
+🛩️ This is a python project which is based on banking system. 
+🛩️ This project uses binary file to store data.
+🛩️ With this project you can create your pseudo bank account and understand the different aspects of a banking system.
+🛩️ This project will help you to create, delete, modify user account and many more amazing things.
 
 ### 🏠 [Homepage](https://github.com/RajBhattacharyya/Python-banking-project)
 
-## Usage
+## How to run
 
-```sh
-##Easy to use. 
-##Download all the files and run main.py
-```
+💥 Download all the file and run [main.py](https://github.com/RajBhattacharyya/Python-banking-project/blob/master/core/main.py)
+
+## Run online
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/?editor=code#https://github.com/RajBhattacharyya/Python-banking-project)
+
 
 ## Author
 
@@ -32,7 +43,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/RajBhattacharyya/Python-banking-project/issues). 
+Contributions, issues and feature requests are very very welcome!<br />Feel free to check [issues page](https://github.com/RajBhattacharyya/Python-banking-project/issues). 
 
 ## Show your support
 
