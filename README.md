@@ -24,9 +24,17 @@ Completely based on python(Intermidiate level) 👋
 
 ### 🏠 [Homepage](https://github.com/RajBhattacharyya/Python-banking-project)
 
-## 🌏 Run online
+## 🌏  Open in the Cloud 
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/RajBhattacharyya/Python-banking-project)
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/RajBhattacharyya/Python-banking-project)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/?editor=code#https://github.com/RajBhattacharyya/Python-banking-project/tree/master)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/RajBhattacharyya/Python-banking-project)
+[![Open in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/RajBhattacharyya/Python-banking-project)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/RajBhattacharyya/Python-banking-project)
+[![Open in Repl.it](https://replit.com/badge/github/withastro/astro)](https://replit.com/github/RajBhattacharyya/Python-banking-project)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/RajBhattacharyya/Python-banking-project)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RajBhattacharyya/Python-banking-project)
 
 
 ## Author
